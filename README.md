@@ -3,7 +3,8 @@
 This project was created with Vue.js with Vuex and Vue Roters.
 
 Frontend - Vue
-Database used - Fire Base
+
+Database - Fire Base
 
 Git clone (https://github.com/manjuprem12/find-your-coach.git)
 
