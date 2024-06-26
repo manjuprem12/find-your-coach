@@ -2,6 +2,9 @@
 
 This project was created with Vue.js with Vuex and Vue Roters.
 
+Frontend - Vue
+Database used - Fire Base
+
 Git clone (https://github.com/manjuprem12/find-your-coach.git)
 
 ## Table of Contents
@@ -92,3 +95,5 @@ To learn Vuex, check out the .[vuex documentation ]. (https://vuex.vuejs.org/)
 To learn Vue Router, checkout the .[Vue Router documentation ]. (https://router.vuejs.org/)
 
 To learn vue styling, checkout the .[Vue style documentation ]. (https://vuejs.org/guide/essentials/class-and-style.html).
+
+To learn Firebase, checkout the .[fire base documentation ]. (https://firebase.google.com/).
